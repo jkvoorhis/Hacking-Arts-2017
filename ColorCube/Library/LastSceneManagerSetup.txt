@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/wyatt/Documents/Unity/DashAndZagForReal/Assets/Scene_3 Squid.unity
+  isLoaded: 1
+  isActive: 1
