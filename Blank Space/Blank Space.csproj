@@ -228,6 +228,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\objects.cs" />
+    <Compile Include="Assets\Scripts\setUp.cs" />
     <Compile Include="Assets\ThirdParty\Reaktion\Gear\AnimatorGear.cs" />
     <Compile Include="Assets\ThirdParty\Reaktion\Gear\CameraGear.cs" />
     <Compile Include="Assets\ThirdParty\Reaktion\Gear\ConstantMotionGear.cs" />

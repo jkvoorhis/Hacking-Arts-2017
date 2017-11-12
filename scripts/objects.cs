@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class hey : MonoBehaviour {
+public class objects : MonoBehaviour {
 	public Color col;
 	public static float SPEED = .1f;
 	public float xspeed;
